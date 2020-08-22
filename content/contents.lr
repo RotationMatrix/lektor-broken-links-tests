@@ -1,0 +1,10 @@
+title: Welcome to the broken-links test site!
+---
+body:
+
+This is a basic demo website that hosts the test suite for `lektor-broken-links`.
+
+- [Working absolute internal link](/projects)
+- [Broken absolute internal link](/none)
+- [Working relative internal link](./about)
+- [Broken relative internal link](./none)

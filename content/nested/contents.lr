@@ -1,0 +1,11 @@
+title: Some nested links
+---
+body:
+
+These links are nested in the website and use relative links to get around.
+
+- [Welcome](../)
+- [Projects](../projects)
+- [About](../about)
+- [Broken relative link](../none)
+- [Go deeper!](./deeper)
